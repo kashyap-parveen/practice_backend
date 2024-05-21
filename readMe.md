@@ -3,7 +3,7 @@
 ```javascript
 PORT=4000
 CORS_ORIGIN=*
-MONGOODB_URI=mongodb+srv://pinnu:user1234@cluster10.5iwiplq.mongodb.net
+MONGOODB_URI=""
 
 ```
 
